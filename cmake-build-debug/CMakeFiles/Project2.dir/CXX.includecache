@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/afs/asu.edu/users/k/s/h/kshesha1/Project2/main.cpp
+iostream
+-
+fstream
+-
+string.h
+-
+cstring
+-
+sstream
+-
+stdio.h
+-
+fstream
+-
+
